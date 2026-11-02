@@ -2,7 +2,7 @@
 
 An AI-assisted SaaS-style platform for monitoring ETL data batches. It validates records, tracks quality metrics, identifies rule violations, and can generate remediation guidance.
 
-## Why it is a strong PFE project
+
 
 This represents a real data-engineering product: teams submit ETL output, receive data-quality and observability metrics, then use an AI copilot to understand an incident and prioritise a fix.
 
